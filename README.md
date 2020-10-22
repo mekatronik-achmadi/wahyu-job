@@ -4,7 +4,7 @@ This example test toolkit for various RF module.
 - [x] Own VDD
 - [x] Serial Comm
 - [x] Serial Prog
-- [ ] SIM Card Slot
+- [x] SIM Card Slot
 - [ ] GPS Antena
 - [ ] RF Antena
 - [x] Boot-Config Pin
@@ -29,5 +29,3 @@ This example test toolkit for various RF module.
 - [ ] GPS Antena
 - [ ] RF Antena
 - [ ] Boot-Config Pin
-
-
