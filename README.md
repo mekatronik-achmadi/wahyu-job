@@ -1,13 +1,14 @@
 This example test toolkit for various RF module.
 
 ###### SIM7000E
-- [ ] Own VDD
-- [ ] Serial Comm
-- [ ] Serial Prog
+- [x] Own VDD
+- [x] Serial Comm
+- [x] Serial Prog
 - [ ] SIM Card Slot
 - [ ] GPS Antena
 - [ ] RF Antena
-- [ ] Boot-Config Pin
+- [x] Boot-Config Pin
+- [x] USB Firmware (R-USB Optional)
 
 ###### ESP32-WROVER-IB
 - [ ] Own VDD
@@ -19,6 +20,14 @@ This example test toolkit for various RF module.
 - [ ] Own VDD
 - [ ] Serial Comm
 - [ ] Serial Prog
+- [ ] Boot-Config Pin
+
+###### SIM800C
+- [ ] Own VDD
+- [ ] Serial Comm
+- [ ] Serial Prog
+- [ ] GPS Antena
+- [ ] RF Antena
 - [ ] Boot-Config Pin
 
 

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SIM7000E)(type Legacy)(uri /home/achmaday/_development_/Projects/wahyu-job/circuit/kicadlib/sim7000e/SIM7000E.lib)(options "")(descr ""))
+)

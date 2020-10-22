@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name sim7000e)(type KiCad)(uri /home/achmaday/_development_/Projects/wahyu-job/circuit/kicadlib/sim7000e)(options "")(descr ""))
+)
