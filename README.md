@@ -40,4 +40,4 @@ This example test toolkit for various RF module.
 ###### AMS1117-3V3
 - [x] Global VDD
 - [x] Global VCC
-- [ ] VDD Selector
+- [x] VDD Selector

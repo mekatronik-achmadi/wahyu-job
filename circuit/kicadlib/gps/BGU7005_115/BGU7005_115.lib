@@ -1,0 +1,39 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# BGU7005,115
+#
+DEF BGU7005,115 U 0 40 Y N 1 L N
+F0 "U" 100 -175 50 H V L BNN
+F1 "BGU7005,115" 100 -300 50 H V L BNN
+F2 "PSON50P145X100X50-6N" 0 0 50 H I L BNN
+F3 "NXP" 0 0 50 H I L BNN
+F4 "6" 0 0 50 H I L BNN
+F5 "0.5 mm" 0 0 50 H I L BNN
+F6 "IPC 7351B" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 16 -100 200 -100 -200 N
+P 2 0 0 16 -100 -200 0 -150 N
+P 2 0 0 16 0 -150 300 0 N
+T 900 -30 235 32 0 0 0 VCC Normal 0 L B
+T 900 -30 -320 32 0 0 0 GND Normal 0 L B
+P 2 0 0 16 300 0 100 100 N
+P 2 0 0 16 100 100 0 150 N
+P 2 0 0 16 0 150 -100 200 N
+P 2 0 0 6 0 200 0 150 N
+P 2 0 0 6 0 -200 0 -150 N
+P 2 0 0 6 100 200 100 100 N
+T 900 -30 235 32 0 0 0 VCC Normal 0 L B
+T 900 70 235 32 0 0 0 EN Normal 0 L B
+X ~ 3 -300 0 200 R 40 40 0 0 I 
+X ~ 4 0 400 200 D 40 40 0 0 W 
+X ~ 6 500 0 200 L 40 40 0 0 O 
+X ~ 1 0 -400 200 U 40 40 0 0 W 
+X ~ 2 0 -400 200 U 40 40 0 0 W 
+X ~ 5 100 400 200 D 40 40 0 0 I 
+ENDDRAW
+ENDDEF
+#
+# End Library
