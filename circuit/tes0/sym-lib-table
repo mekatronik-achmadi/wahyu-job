@@ -1,5 +1,4 @@
 (sym_lib_table
   (lib (name SIM7000E)(type Legacy)(uri /home/achmaday/_development_/Projects/wahyu-job/circuit/kicadlib/sim7000e/SIM7000E.lib)(options "")(descr ""))
-  (lib (name 20279-001E-01)(type Legacy)(uri /home/achmaday/_development_/Projects/wahyu-job/circuit/kicadlib/antenna/20279-001E-01.lib)(options "")(descr ""))
-  (lib (name BGU7005_115)(type Legacy)(uri /home/achmaday/_development_/Projects/wahyu-job/circuit/kicadlib/gps/BGU7005_115/BGU7005_115.lib)(options "")(descr ""))
+  (lib (name eec)(type Legacy)(uri /home/achmaday/_development_/Projects/wahyu-job/circuit/kicadlib/antenna/eec.lib)(options "")(descr ""))
 )
