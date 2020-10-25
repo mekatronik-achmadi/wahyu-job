@@ -1,0 +1,29 @@
+Id,Designator,Package,Quantity,Designation,Supplier [Code],Min Qty,URLs
+1,"C-S70_ANT_GPS1,C-S70_ANT_GPS2",C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,2,33pF,Tokopedia [Indoware],10,https://www.tokopedia.com/indo-ware/0805-33pf-33-pf-50v-kapasitor-2012-smd-capasitor-33p-33-p-33-pf-33pf
+2,"C-S70_ANT_RF1,C-S70_ANT_RF2",C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,2,C,Tokopedia [Indoware],10,https://www.tokopedia.com/indo-ware/0805-33pf-33-pf-50v-kapasitor-2012-smd-capasitor-33p-33-p-33-pf-33pf
+3,R-S70_ANT_GPS1,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,10,Tokopedia [Indoware],20,https://www.tokopedia.com/indo-ware/10r-10-ohm-10-r-0805-1-resistor-smd-10ohm-10-ohm
+4,"R-S70_ANT_RF1,R-S70_USB_VBUS1",R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,2,0,Tokopedia [Indoware],20,https://www.tokopedia.com/indo-ware/0r-0-ohm-0805-5-paket-1-pcs-resistor-smd-jumper-nol-ohm-jumper-2012
+5,"R-S70_USIM1,R-S70_USIM2,R-S70_USIM3",R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,3,22,Tokopedia [Indoware],20,https://www.tokopedia.com/indo-ware/22r-22-ohm-0805-5-paket-10-pcs-resistor-smd-1
+6,U3,SOT-223-3_TabPin2,1,AMS1117-3.3,Tokopedia [Indoware],4,https://www.tokopedia.com/indo-ware/ams-1117-33v-smd-ams1117-33-voltage-regulated-ic-sot-223-ldo-33v
+7,"R-ESP32_BOOT1,R-ESP32_BOOT2",R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,2,100,Tokopedia [Indoware],10,https://www.tokopedia.com/indo-ware/100r-100-ohm-0805-5-paket-10-pcs-resistor-smd
+8,"C-AMS1,C-AMS2,C-FT_3V3",C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,3,100nF,Tokopedia,2 (20),https://www.tokopedia.com/tentronik/10-pcs-c-capasitor-100nf-100-nf-0-1uf-50v-smd-0805-10
+9,"J-S70_ANT_GPS1,J-S70_ANT_RF1",Taoglas-RECE-20279-001E-01-MFG,2,RECE-20279-001E-01,Tokopedia,10,https://www.tokopedia.com/visitek/ipex-original-antenna-base-ipx-20279-001e-antena-u-fl-connector-0-4ghz
+10,L-S70_ANT_GPS1,L_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,47nH,Tokopedia,10,https://www.tokopedia.com/cosmic-iot/induktor-inductor-smd-47nh-47-nh-0805-error-5
+11,"SW-S70-PWR1,SW-S70-RST1,SW-ESP32_RST1,SW-ESP32_RUN1",SW_PUSH_6mm,4,SW_Push,Tokopedia,10,https://www.tokopedia.com/ahrar-1/push-button-saklar-kecil-tactile-tact-switch-micro-4pin-4p-6x6x5mm
+12,"L-S70_ANT_GPS2,L-S70_ANT_GPS3",L_0805_2012Metric_Pad1.15x1.40mm_HandSolder,2,L,Tokopedia,10,https://www.tokopedia.com/cosmic-iot/induktor-inductor-smd-47nh-47-nh-0805-error-5
+13,"J-FT_USB1,J-S70-USB1",USB_Micro-B_Wuerth_629105150521,2,USB_B_Micro,Digiware [919-209],4,https://digiwarestore.com/id/connector/micro-usb-connector-b-type-female-05p-smt-90-919209.html
+14,"J-BRD_S70_FT1,J-BRD_ESP32_FT1,J-BRD_S70_ESP1",PinHeader_2x02_P2.54mm_Vertical,3,Conn_02x02_Odd_Even,Digiware [323-074],4,https://digiwarestore.com/id/pcb-male/header-40x2-kw2-323074.html
+15,"J-ESP32_PB1,J-S70_PB1",PinHeader_1x09_P2.54mm_Vertical,2,Conn_01x09,Digiware [323-002],8,https://digiwarestore.com/id/pcb-male/header-40x1-323002.html
+16,"Q-ESP32_BOOT1,Q-ESP32_BOOT2",SOT-23,2,2N3904,Digiware [271-014],4,https://digiwarestore.com/id/npn/mmbt3904lt1-smd-sot-23-10-pcs-per-pack-271014.html
+17,"D-FT_RXD1,D-FT_TXD1,D-S70_NETLIGHT1,D-S70_STATUS1,D-ESP32_LED1",LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,5,LED,Digiware [255-036],10,https://digiwarestore.com/id/led/led-red-super-bright-smd1206-255036.html
+18,U2,SSOP-28_5.3x10.2mm_P0.65mm,1,FT232RL,Digiware [166-019],3,https://digiwarestore.com/id/serial-communication/ft232rl-166019.html
+19,U1,SIMCON_SIM7000E,1,SIM7000E,Aliexpress,2,https://www.aliexpress.com/item/4001274551033.html
+20,J-S70_USIM1,microSIM_JAE_SF53S006VCBR2000,1,SIM_Card,Aliexpress,6,https://www.aliexpress.com/item/32793672605.html
+21,A1,XCVR_ESP32-WROVER-I,1,ESP32-WROVER-I,Aliexpress,2,https://www.aliexpress.com/item/1005001544883473.html
+22,"R-FT_RXD1,R-FT_TXD1,R-S70_NETLIGHT1,R-S70_STATUS1,R-ESP32_LED1",R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,5,330,Achmadi,20,-
+23,"R-ESP32_IO2,R-ESP32_RST1",R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,2,10K,Achmadi,10,-
+24,J-BRD_VDD1,PinHeader_2x04_P2.54mm_Vertical,1,Conn_02x04_Odd_Even,-,-,-
+25,"J-S70_PA1,J-S70_PC1",PinHeader_1x06_P2.54mm_Vertical,2,Conn_01x06,-,-,-
+26,J-S70_UART3,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03,-,-,-
+27,J-S70_UPDATE1,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02,-,-,-
+28,J-ESP32_PA1,PinHeader_1x08_P2.54mm_Vertical,1,Conn_01x08,-,-,-
