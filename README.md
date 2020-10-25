@@ -5,17 +5,21 @@ This example test toolkit for various RF module.
 - [x] Serial Comm
 - [x] Serial Prog
 - [x] SIM Card Slot
-- [ ] GPS Antena
-- [ ] RF Antena
+- [x] GPS Antena
+- [x] RF Antena
 - [x] Boot-Config Pin
 - [x] USB Firmware (R-USB Optional)
 - [x] UART-FT232RL
+- [x] UART-ESP32
 
 ###### ESP32-WROVER-IB
-- [ ] Own VDD
-- [ ] Serial Comm
-- [ ] Serial Prog
-- [ ] Boot-Config Pin
+- [x] Own VDD
+- [x] Serial Comm
+- [x] Serial Prog
+- [x] Boot-Config Pin
+- [x] RTS-CTS Transistor
+- [x] UART-FT232RL
+- [x] UART-SIM7000
 
 ###### LORA SX1262
 - [ ] Own VDD

@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name sim7000e)(type KiCad)(uri /home/achmaday/_development_/Projects/wahyu-job/circuit/kicadlib/sim7000e)(options "")(descr ""))
   (lib (name eec)(type KiCad)(uri /home/achmaday/_development_/Projects/wahyu-job/circuit/kicadlib/antenna/eec.pretty)(options "")(descr ""))
+  (lib (name esp32-wrover-i)(type KiCad)(uri /home/achmaday/_development_/Projects/wahyu-job/circuit/kicadlib/esp32-wrover-i)(options "")(descr ""))
 )
